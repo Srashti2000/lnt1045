@@ -1,0 +1,3 @@
+Today is Tuesday 
+Month is august
+Year is 2022
